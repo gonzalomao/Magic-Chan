@@ -10,7 +10,7 @@ Proyecto (código):
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://github.com/gonzalomao/Magic-Chan_22/blob/master/rebechan.jpeg) 
 
 Nombre: Rebechan
 
