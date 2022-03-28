@@ -1,6 +1,6 @@
 # Magic-Chan: 
 
-Nombre del Equipo: 
+Nombre del Equipo: Grupo 4
 
 Proyecto (código): 
 
@@ -27,7 +27,7 @@ Nombre: Rebechan
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: https://h5p.org/node/1257184?feed_me=nps
 
 - Banner/Teaser:  (enlace) 
 
